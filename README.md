@@ -17,6 +17,6 @@ An unbeatable Tic Tac Toe AI that leverages the powerful Minimax algorithm. Enjo
 
 ## How to Play
 
-1. **Clone the repository:**
-2. **Watch the computer go to town:**
+1. **Clone the repository**
+2. **Watch the computer go to town**
 
