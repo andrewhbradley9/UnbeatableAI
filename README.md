@@ -1,9 +1,4 @@
-# UnbeatableAI
-<p align="center">
-  <img src="tic_tac_toe_ai.png" alt="Tic Tac Toe AI Logo" width="300"/>
-</p>
-
-# Tic Tac Toe AI with Minimax Algorithm
+# Unbeatable AI with Minimax Algorithm
 
 An unbeatable Tic Tac Toe AI that leverages the powerful Minimax algorithm. Enjoy a challenging game against an intelligent opponent that always plays optimally.
 
